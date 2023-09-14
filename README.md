@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivam Kabra</h1>
 <h3 align="center">Data Science enthusiast</h3>
 
-- 🌱 I’m currently learning **Coding Ninjas - Data Science course, AWS, Flask framework**
+- 🌱 I’m currently learning **Coding Ninjas - Data Science course, Flask framework**
 
 - 📝 I regularly write articles on [https://medium.com/@shivamkabra07](https://medium.com/@shivamkabra07)
 
